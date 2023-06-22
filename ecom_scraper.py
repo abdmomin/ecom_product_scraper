@@ -22,7 +22,6 @@ headers = {
 s = HTMLSession()
 
 
-
 def get_links():
     url = 'https://themes.woocommerce.com/storefront/product-category/clothing'
     links = []
